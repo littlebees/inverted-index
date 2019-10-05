@@ -1,0 +1,1 @@
+A Java program generates inverted index for HTML.
